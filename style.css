@@ -1,4 +1,4 @@
-/* Reset some default styles */
+ /* Reset some default styles */
 * {
     margin: auto;
     padding: 0;
@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-image: image("BGimg.jpg");
+    background-image: URL("BGimg.jpg");
     color: #333;
 }
 
