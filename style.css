@@ -9,6 +9,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-image: URL("BGimg.jpg");
+    background-color: #00;
     color: #333;
 }
 
